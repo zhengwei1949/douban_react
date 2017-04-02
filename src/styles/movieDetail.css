@@ -1,0 +1,10 @@
+.movieDetail_container{
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.movieDetail_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
